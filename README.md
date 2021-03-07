@@ -1,4 +1,7 @@
 ## About me
+Hey there! I'm t_yagi.
+
+
 ### Current Job (2020~): 
 - E-commerce Site Developer.
 - Software Engineer.
@@ -18,9 +21,8 @@
 ![](https://img.shields.io/badge/-Amazon%20AWS-232F3E.svg?logo=amazon-aws&style=flat) ![](https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat) ![](https://img.shields.io/badge/-Kubernetes-EEE.svg?logo=kubernetes&style=flat) ![](https://img.shields.io/badge/-Linux-6C6694.svg?logo=linux&style=flat) 
 
 ### Summary
-![t-yagit's github stats](https://github-readme-stats.vercel.app/api?username=t-yagit&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t-yagit&layout=compact&hide=css)](https://github.com/anuraghazra/github-readme-stats)
+![t-yagit's github stats](https://github-readme-stats.vercel.app/api?username=t-yagit&show_icons=true&theme=onedark&count_private=true)
 
-[![twitter badge](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Ft_yagit)](https://twitter.com/t_yagit_) [![blog badge](https://img.shields.io/badge/blog-yagitlab.hatenablog.com-blue)](https://yagitlab.hatenablog.com/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t-yagit&layout=compact&hide=css&theme=onedark&count_private=true)
 
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=t-yagit alt=t-yagit/> </p>
+![profile_count](https://komarev.com/ghpvc/?username=t-yagit)
