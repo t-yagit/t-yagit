@@ -3,12 +3,12 @@ Hey there! I'm t_yagi.
 
 
 ### Current Job (2020~): 
-- E-commerce Site Developer.
-- Software Engineer.
+- E-commerce Developer.
+- Server Side & Frontend Engineer.
 
 ### Previous job (2014~2020): 
 - System Integrator & Blockchain Developer. 
-- Server Side & Infra Engineer.
+- Server Side & Infrastructure Engineer.
 
 ### Recent post
 - ![](img/monotaro.png) [図解を制するものは、エンジニアリングを制す。diagrams.netを使ったチーム開発のススメ。](https://tech-blog.monotaro.com/entry/2021/03/02/080000)
